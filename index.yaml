@@ -1,0 +1,41 @@
+apiVersion: v1
+entries:
+  docker-registry:
+  - apiVersion: v1
+    appVersion: 2.7.1
+    created: "2020-04-06T10:32:50.779061762Z"
+    description: A Helm chart for Docker Registry
+    digest: b6a2164e2a97a3a38ec41dbca72dbcfff7651293dae86850ef301af7a6548080
+    home: https://hub.docker.com/_/registry/
+    icon: https://hub.docker.com/public/images/logos/mini-logo.svg
+    maintainers:
+    - email: jpds@protonmail.com
+      name: jpds
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    name: docker-registry
+    sources:
+    - https://github.com/docker/distribution-library-image
+    urls:
+    - docker-registry-1.9.2.tgz
+    version: 1.9.2
+  nginx-ingress:
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2020-04-06T10:32:50.780413373Z"
+    description: NGINX Ingress Controller
+    digest: 55e3cdd13d548a76ee6e1457cb9a8d0a38bc601702a44b83012ce0d58e5490b0
+    icon: https://raw.githubusercontent.com/nginxinc/kubernetes-ingress/v1.6.3/deployments/helm-chart/chart-icon.png
+    keywords:
+    - ingress
+    - nginx
+    maintainers:
+    - email: kubernetes@nginx.com
+      name: NGINX Kubernetes Team
+    name: nginx-ingress
+    sources:
+    - https://github.com/nginxinc/kubernetes-ingress/tree/v1.6.3/deployments/helm-chart
+    urls:
+    - nginx-ingress-0.4.3.tgz
+    version: 0.4.3
+generated: "2020-04-06T10:32:50.777375455Z"
