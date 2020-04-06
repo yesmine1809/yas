@@ -3,7 +3,7 @@ entries:
   docker-registry:
   - apiVersion: v1
     appVersion: 2.7.1
-    created: "2020-04-06T10:32:50.779061762Z"
+    created: "2020-04-06T11:23:17.967497066Z"
     description: A Helm chart for Docker Registry
     digest: b6a2164e2a97a3a38ec41dbca72dbcfff7651293dae86850ef301af7a6548080
     home: https://hub.docker.com/_/registry/
@@ -22,9 +22,9 @@ entries:
   nginx-ingress:
   - apiVersion: v1
     appVersion: 1.6.3
-    created: "2020-04-06T10:32:50.780413373Z"
+    created: "2020-04-06T11:23:17.969931315Z"
     description: NGINX Ingress Controller
-    digest: 55e3cdd13d548a76ee6e1457cb9a8d0a38bc601702a44b83012ce0d58e5490b0
+    digest: 41c6b2729511ae4434ffe042000e332e90a09c22b0c857309f032c925b25aba3
     icon: https://raw.githubusercontent.com/nginxinc/kubernetes-ingress/v1.6.3/deployments/helm-chart/chart-icon.png
     keywords:
     - ingress
@@ -38,4 +38,14 @@ entries:
     urls:
     - nginx-ingress-0.4.3.tgz
     version: 0.4.3
-generated: "2020-04-06T10:32:50.777375455Z"
+  yassouuuuuuuu:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-06T11:23:17.970899653Z"
+    description: A Helm chart for Kubernetes
+    digest: 073aa69756036e40b1f20644229eeea0b102327e889386614c2fdb81ddc9a1a6
+    name: yassouuuuuuuu
+    urls:
+    - yassouuuuuuuu-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-06T11:23:17.964907124Z"
