@@ -1,28 +1,9 @@
 apiVersion: v1
 entries:
-  docker-registry:
-  - apiVersion: v1
-    appVersion: 2.7.1
-    created: "2020-04-22T14:32:01.152570997Z"
-    description: A Helm chart for Docker Registry
-    digest: b6a2164e2a97a3a38ec41dbca72dbcfff7651293dae86850ef301af7a6548080
-    home: https://hub.docker.com/_/registry/
-    icon: https://hub.docker.com/public/images/logos/mini-logo.svg
-    maintainers:
-    - email: jpds@protonmail.com
-      name: jpds
-    - email: pete.brown@powerhrg.com
-      name: rendhalver
-    name: docker-registry
-    sources:
-    - https://github.com/docker/distribution-library-image
-    urls:
-    - docker-registry-1.9.2.tgz
-    version: 1.9.2
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-22T14:32:01.155361726Z"
+    created: "2020-04-22T14:40:44.118600406Z"
     description: A Helm chart for Kubernetes
     digest: d7494b4ba62a1fe903c493469c80c5232ce0108641eee7e93bd152c739d0ae0e
     name: nginx
@@ -30,74 +11,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-  nginx-ingress:
-  - apiVersion: v1
-    appVersion: 1.6.3
-    created: "2020-04-22T14:32:01.157901712Z"
-    description: NGINX Ingress Controller
-    digest: 41c6b2729511ae4434ffe042000e332e90a09c22b0c857309f032c925b25aba3
-    icon: https://raw.githubusercontent.com/nginxinc/kubernetes-ingress/v1.6.3/deployments/helm-chart/chart-icon.png
-    keywords:
-    - ingress
-    - nginx
-    maintainers:
-    - email: kubernetes@nginx.com
-      name: NGINX Kubernetes Team
-    name: nginx-ingress
-    sources:
-    - https://github.com/nginxinc/kubernetes-ingress/tree/v1.6.3/deployments/helm-chart
-    urls:
-    - nginx-ingress-0.4.3.tgz
-    version: 0.4.3
-  wordpress:
-  - apiVersion: v1
-    appVersion: 5.3.2
-    created: "2020-04-22T14:32:01.166218255Z"
-    dependencies:
-    - condition: mariadb.enabled
-      name: mariadb
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      tags:
-      - wordpress-database
-      version: 7.x.x
-    deprecated: true
-    description: DEPRECATED Web publishing platform for building blogs and websites.
-    digest: b83c4d4009d3a37298a13e75afa1a16f1826b3f84504d1201c1bd7e301501f44
-    home: http://www.wordpress.com/
-    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
-    keywords:
-    - wordpress
-    - cms
-    - blog
-    - http
-    - web
-    - application
-    - php
-    name: wordpress
-    sources:
-    - https://github.com/bitnami/bitnami-docker-wordpress
-    urls:
-    - wordpress-9.0.3.tgz
-    version: 9.0.3
-  yassouuuuuuuu:
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-04-22T14:32:01.167263093Z"
-    description: A Helm chart for Kubernetes
-    digest: 073aa69756036e40b1f20644229eeea0b102327e889386614c2fdb81ddc9a1a6
-    name: yassouuuuuuuu
-    urls:
-    - yassouuuuuuuu-0.1.0.tgz
-    version: 0.1.0
-  yeschart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-22T14:32:01.172752743Z"
-    description: A Helm chart for Kubernetes
-    digest: da542130f67db0cb09a92ee113114938b794f266a4cea86ea4775b9c2329a054
-    name: yeschart
-    type: application
-    urls:
-    - yeschart-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-04-22T14:32:01.150092655Z"
+generated: "2020-04-22T14:40:44.11611565Z"
