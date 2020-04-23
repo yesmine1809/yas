@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-23T10:51:55.009311093Z"
+    description: A Helm chart for Kubernetes
+    digest: 23a1df7ef5972709fce580ac8dbc899484c97c1f00352e9f087ebcb00fd39ae0
+    icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-23T10:51:55.007307531Z"
