@@ -3,7 +3,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-23T13:48:24.036086033Z"
+    created: "2020-04-23T13:51:47.777355804Z"
     description: A Helm chart for Kubernetes
     digest: 752c016e424faa0914645b13c7e40e0dc3045c3df1204bbf87eff7f5a62771cc
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
@@ -12,4 +12,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-23T13:48:24.032493088Z"
+generated: "2020-04-23T13:51:47.775675732Z"
