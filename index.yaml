@@ -3,7 +3,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-24T13:39:38.925129004Z"
+    created: "2020-04-27T07:48:24.574355791Z"
     description: A Helm chart for Kubernetes
     digest: fabe74c20d0124d72166aa8d09ce22cb722bfc2cb0169f661004a76746b9f17b
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
@@ -12,10 +12,22 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
+  nginx&simpleapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-27T07:48:24.572962533Z"
+    description: A Helm chart for Kubernetes
+    digest: c8983a4b921736b723d650743179e64968cfd141a5549f518def10849d1e7245
+    icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
+    name: nginx&simpleapp
+    type: application
+    urls:
+    - nginx&simpleapp-0.1.0.tgz
+    version: 0.1.0
   nginxx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-24T13:39:38.926226657Z"
+    created: "2020-04-27T07:48:24.575687326Z"
     description: A Helm chart for Kubernetes
     digest: 3e1196a7263deb612c535a180b9b26dce659e4f6ca32f8a17f802e29c8ce00a0
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
@@ -27,7 +39,7 @@ entries:
   simpleapplication:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-24T13:39:38.927541249Z"
+    created: "2020-04-27T07:48:24.576575687Z"
     description: A Helm chart for Kubernetes
     digest: d28bb0339518fff49fa517729483ec36f0c8d459279b8e29d160b12176250c14
     icon: https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo-plus-simple.png
@@ -36,4 +48,4 @@ entries:
     urls:
     - two-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-24T13:39:38.923418896Z"
+generated: "2020-04-27T07:48:24.570735078Z"
