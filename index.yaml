@@ -1,45 +1,9 @@
 apiVersion: v1
 entries:
-  nginx:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-27T10:17:46.866540062Z"
-    description: A Helm chart for Kubernetes
-    digest: fabe74c20d0124d72166aa8d09ce22cb722bfc2cb0169f661004a76746b9f17b
-    icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginx
-    type: application
-    urls:
-    - nginx-0.1.0.tgz
-    version: 0.1.0
-  nginx&simpleapp:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-27T10:17:46.865843125Z"
-    description: A Helm chart for Kubernetes
-    digest: c8983a4b921736b723d650743179e64968cfd141a5549f518def10849d1e7245
-    icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginx&simpleapp
-    type: application
-    urls:
-    - nginx&simpleapp-0.1.0.tgz
-    version: 0.1.0
-  nginxsansrcs:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-27T10:17:46.867475212Z"
-    description: A Helm chart for Kubernetes
-    digest: 2e75576c4a1e9e55004a4b4a822c7fbadbe4daf9736322ac2d125c8a3e7fb2bc
-    icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginxsansrcs
-    type: application
-    urls:
-    - nginxsansrcs-0.1.0.tgz
-    version: 0.1.0
   nginxsimpleapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-27T10:17:46.868640579Z"
+    created: "2020-04-27T10:26:51.624937235Z"
     description: A Helm chart for Kubernetes
     digest: fa5755a7a536517031e396d89abadab1b69bede898c23fcdc8ea4dee08742d1b
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
@@ -48,22 +12,10 @@ entries:
     urls:
     - nginxsimpleapp-0.1.0.tgz
     version: 0.1.0
-  simpleapplication:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-27T10:17:46.869475165Z"
-    description: A Helm chart for Kubernetes
-    digest: d28bb0339518fff49fa517729483ec36f0c8d459279b8e29d160b12176250c14
-    icon: https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo-plus-simple.png
-    name: simpleapplication
-    type: application
-    urls:
-    - two-0.1.0.tgz
-    version: 0.1.0
   wordpress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-27T10:17:46.870207797Z"
+    created: "2020-04-27T10:26:51.625888536Z"
     description: A Helm chart for Kubernetes
     digest: d5dab1f48273ebeec25eda980562646103788de9100a9c2ef4ab58070771d4fb
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -72,4 +24,16 @@ entries:
     urls:
     - wordpress-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-27T10:17:46.862952741Z"
+  wordpressansrcs:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-27T10:26:51.626806748Z"
+    description: A Helm chart for Kubernetes
+    digest: c7448c3c6e4e8ddbac8e93132df2712cfc3ce4df1ead555f73d8a97bc68bc365
+    icon: https://img.icons8.com/color/384/000000/wordpress.png
+    name: wordpressansrcs
+    type: application
+    urls:
+    - wordpressansrcs-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-27T10:26:51.623116222Z"
