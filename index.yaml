@@ -3,7 +3,7 @@ entries:
   nginxsimpleapplication:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-28T13:41:15.847095945Z"
+    created: "2020-04-29T08:32:38.247354471Z"
     description: A Helm chart for Kubernetes
     digest: e3cf8e98abf52a55e7a1a8923fa01ff0398cf95603154fedf318e1d2f47d863d
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
@@ -12,10 +12,22 @@ entries:
     urls:
     - nginxsimpleapplication-0.1.0.tgz
     version: 0.1.0
+  wordpresfinal:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-29T08:32:38.248566131Z"
+    description: A Helm chart for Kubernetes
+    digest: 49eab908fa0138cc8d36af282b7a22e51cc411d8605d37adb08ea012a746481b
+    icon: https://img.icons8.com/color/384/000000/wordpress.png
+    name: wordpresfinal
+    type: application
+    urls:
+    - wordpresfinal-0.1.0.tgz
+    version: 0.1.0
   wordpress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-28T13:41:15.85113746Z"
+    created: "2020-04-29T08:32:38.249447456Z"
     description: A Helm chart for Kubernetes
     digest: d5dab1f48273ebeec25eda980562646103788de9100a9c2ef4ab58070771d4fb
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -27,7 +39,7 @@ entries:
   wordpressansrcs:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-28T13:41:15.852638324Z"
+    created: "2020-04-29T08:32:38.250403514Z"
     description: A Helm chart for Kubernetes
     digest: c7448c3c6e4e8ddbac8e93132df2712cfc3ce4df1ead555f73d8a97bc68bc365
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -39,7 +51,7 @@ entries:
   wordpressnew:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-28T13:41:15.854448413Z"
+    created: "2020-04-29T08:32:38.251560551Z"
     description: A Helm chart for Kubernetes
     digest: 90f90e3607e16b1eaf1c616e5a3e6836dce59d78d5a29e8497cc99833d7eee8c
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -48,4 +60,4 @@ entries:
     urls:
     - wordpressnew-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-28T13:41:15.845160891Z"
+generated: "2020-04-29T08:32:38.2436931Z"
