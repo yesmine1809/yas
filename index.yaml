@@ -3,7 +3,7 @@ entries:
   cmdemo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T13:53:55.014370862Z"
+    created: "2020-05-04T14:12:35.606442926Z"
     description: A Helm chart for Kubernetes
     digest: f911131164662e46f8247bd85a816f1dfb0e8f37c466a14514544a8f30876206
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -12,22 +12,22 @@ entries:
     urls:
     - cmdemo-0.1.0.tgz
     version: 0.1.0
-  nginxsimpleapplicationfinal:
+  nginxsimpleapplicationn:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T13:53:55.015718008Z"
+    created: "2020-05-04T14:12:35.608088235Z"
     description: A Helm chart for Kubernetes
-    digest: 6175fbe4b359219ee613f8e80f269c82443ee02b68dd0b54b34884923b0d1219
+    digest: ebc9c3be9c1c81516eed9f656ec2cbe9b4d4041608454d2517fe49a97f2e0a3c
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginxsimpleapplicationfinal
+    name: nginxsimpleapplicationn
     type: application
     urls:
-    - nginxsimpleapplicationfinal-0.1.0.tgz
+    - nginxsimpleapplicationn-0.1.0.tgz
     version: 0.1.0
   wordpresansressources:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T13:53:55.016846802Z"
+    created: "2020-05-04T14:12:35.609372257Z"
     description: A Helm chart for Kubernetes
     digest: 3be193dfcaad216ca5f074f7c68244235d8650306f9ac7eecf07a875ad382259
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -36,16 +36,16 @@ entries:
     urls:
     - wordpresansressources-0.1.0.tgz
     version: 0.1.0
-  wordpresswithress:
+  wpwithressources:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T13:53:55.017877707Z"
+    created: "2020-05-04T14:12:35.610631841Z"
     description: A Helm chart for Kubernetes
-    digest: 4d66a36af77e16d94032f3378e86350321fadd889ccf8b57a204bdd980512cab
+    digest: e51ee1f0110d27b48a87e18bc7c349535cd2bd1559805995fa024153fd6ee80a
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wordpresswithress
+    name: wpwithressources
     type: application
     urls:
-    - wordpresswithress-0.1.0.tgz
+    - wpwithressources-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-04T13:53:55.011212992Z"
+generated: "2020-05-04T14:12:35.604559365Z"
