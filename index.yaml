@@ -3,7 +3,7 @@ entries:
   cmdemo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-29T09:27:57.89280611Z"
+    created: "2020-05-04T13:53:55.014370862Z"
     description: A Helm chart for Kubernetes
     digest: f911131164662e46f8247bd85a816f1dfb0e8f37c466a14514544a8f30876206
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -12,64 +12,40 @@ entries:
     urls:
     - cmdemo-0.1.0.tgz
     version: 0.1.0
-  nginxsimpleapplication:
+  nginxsimpleapplicationfinal:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-29T09:27:57.894228857Z"
+    created: "2020-05-04T13:53:55.015718008Z"
     description: A Helm chart for Kubernetes
-    digest: e3cf8e98abf52a55e7a1a8923fa01ff0398cf95603154fedf318e1d2f47d863d
+    digest: 6175fbe4b359219ee613f8e80f269c82443ee02b68dd0b54b34884923b0d1219
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginxsimpleapplication
+    name: nginxsimpleapplicationfinal
     type: application
     urls:
-    - nginxsimpleapplication-0.1.0.tgz
+    - nginxsimpleapplicationfinal-0.1.0.tgz
     version: 0.1.0
-  wordpresfinal:
+  wordpresansressources:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-29T09:27:57.895601575Z"
+    created: "2020-05-04T13:53:55.016846802Z"
     description: A Helm chart for Kubernetes
-    digest: 49eab908fa0138cc8d36af282b7a22e51cc411d8605d37adb08ea012a746481b
+    digest: 3be193dfcaad216ca5f074f7c68244235d8650306f9ac7eecf07a875ad382259
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wordpresfinal
+    name: wordpresansressources
     type: application
     urls:
-    - wordpresfinal-0.1.0.tgz
+    - wordpresansressources-0.1.0.tgz
     version: 0.1.0
-  wordpress:
+  wordpresswithress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-29T09:27:57.896556634Z"
+    created: "2020-05-04T13:53:55.017877707Z"
     description: A Helm chart for Kubernetes
-    digest: d5dab1f48273ebeec25eda980562646103788de9100a9c2ef4ab58070771d4fb
+    digest: 4d66a36af77e16d94032f3378e86350321fadd889ccf8b57a204bdd980512cab
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wordpress
+    name: wordpresswithress
     type: application
     urls:
-    - wordpress-0.1.0.tgz
+    - wordpresswithress-0.1.0.tgz
     version: 0.1.0
-  wordpressansrcs:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-29T09:27:57.897491587Z"
-    description: A Helm chart for Kubernetes
-    digest: c7448c3c6e4e8ddbac8e93132df2712cfc3ce4df1ead555f73d8a97bc68bc365
-    icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wordpressansrcs
-    type: application
-    urls:
-    - wordpressansrcs-0.1.0.tgz
-    version: 0.1.0
-  wordpressnew:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-04-29T09:27:57.898802941Z"
-    description: A Helm chart for Kubernetes
-    digest: 90f90e3607e16b1eaf1c616e5a3e6836dce59d78d5a29e8497cc99833d7eee8c
-    icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wordpressnew
-    type: application
-    urls:
-    - wordpressnew-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-04-29T09:27:57.889564988Z"
+generated: "2020-05-04T13:53:55.011212992Z"
