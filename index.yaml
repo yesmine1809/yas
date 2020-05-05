@@ -3,7 +3,7 @@ entries:
   cmdemo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T14:12:35.606442926Z"
+    created: "2020-05-05T09:33:48.854652119Z"
     description: A Helm chart for Kubernetes
     digest: f911131164662e46f8247bd85a816f1dfb0e8f37c466a14514544a8f30876206
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -12,40 +12,40 @@ entries:
     urls:
     - cmdemo-0.1.0.tgz
     version: 0.1.0
-  nginxsimpleapplicationn:
+  nginxsimpleapplicationnn:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T14:12:35.608088235Z"
+    created: "2020-05-05T09:33:48.856177623Z"
     description: A Helm chart for Kubernetes
-    digest: ebc9c3be9c1c81516eed9f656ec2cbe9b4d4041608454d2517fe49a97f2e0a3c
+    digest: 06a186764fdc33a71b08b87ec18183e5f4e47ed13a94f810bae80ef6121b3702
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginxsimpleapplicationn
+    name: nginxsimpleapplicationnn
     type: application
     urls:
-    - nginxsimpleapplicationn-0.1.0.tgz
+    - nginxsimpleapplicationnn-0.1.0.tgz
     version: 0.1.0
-  wordpresansressources:
+  wpssswithress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T14:12:35.609372257Z"
+    created: "2020-05-05T09:33:48.857332818Z"
     description: A Helm chart for Kubernetes
-    digest: 3be193dfcaad216ca5f074f7c68244235d8650306f9ac7eecf07a875ad382259
+    digest: eb2a530f3e8e62e9826259097ef53cac29563c33e66e09ca0e42b18dae1224d5
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wordpresansressources
+    name: wpssswithress
     type: application
     urls:
-    - wordpresansressources-0.1.0.tgz
+    - wpssswithress-0.1.0.tgz
     version: 0.1.0
-  wpwithressources:
+  wpswitthoutress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-04T14:12:35.610631841Z"
+    created: "2020-05-05T09:33:48.858363598Z"
     description: A Helm chart for Kubernetes
-    digest: e51ee1f0110d27b48a87e18bc7c349535cd2bd1559805995fa024153fd6ee80a
+    digest: c69e447520f1049ceadfef52a5bb8f6f3890fcc1ce5b4b077bf114555a58c0f1
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wpwithressources
+    name: wpswitthoutress
     type: application
     urls:
-    - wpwithressources-0.1.0.tgz
+    - wpswitthoutress-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-04T14:12:35.604559365Z"
+generated: "2020-05-05T09:33:48.851569104Z"
