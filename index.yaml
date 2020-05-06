@@ -1,33 +1,33 @@
 apiVersion: v1
 entries:
-  cmdemo:
+  demoo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-05T09:33:48.854652119Z"
+    created: "2020-05-06T10:42:05.170023115Z"
     description: A Helm chart for Kubernetes
-    digest: f911131164662e46f8247bd85a816f1dfb0e8f37c466a14514544a8f30876206
+    digest: 50e2d168628ab0b9493912995c1ca8b0af2e78662dc7c7aafdecca790aa0420c
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: cmdemo
+    name: demoo
     type: application
     urls:
-    - cmdemo-0.1.0.tgz
+    - demoo-0.1.0.tgz
     version: 0.1.0
-  nginxsimpleapplicationnn:
+  nginxsimpleapplicatioon:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-05T09:33:48.856177623Z"
+    created: "2020-05-06T10:42:05.173352656Z"
     description: A Helm chart for Kubernetes
-    digest: 06a186764fdc33a71b08b87ec18183e5f4e47ed13a94f810bae80ef6121b3702
+    digest: edd067dba1fa5436a4f723370ef5b7b557ce1ea111308ab89fcc917d5d820ed9
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginxsimpleapplicationnn
+    name: nginxsimpleapplicatioon
     type: application
     urls:
-    - nginxsimpleapplicationnn-0.1.0.tgz
+    - nginxsimpleapplicatioon-0.1.0.tgz
     version: 0.1.0
   wpssswithress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-05T09:33:48.857332818Z"
+    created: "2020-05-06T10:42:05.174763959Z"
     description: A Helm chart for Kubernetes
     digest: eb2a530f3e8e62e9826259097ef53cac29563c33e66e09ca0e42b18dae1224d5
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -39,7 +39,7 @@ entries:
   wpswitthoutress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-05T09:33:48.858363598Z"
+    created: "2020-05-06T10:42:05.176076115Z"
     description: A Helm chart for Kubernetes
     digest: c69e447520f1049ceadfef52a5bb8f6f3890fcc1ce5b4b077bf114555a58c0f1
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -48,4 +48,4 @@ entries:
     urls:
     - wpswitthoutress-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-05T09:33:48.851569104Z"
+generated: "2020-05-06T10:42:05.167869572Z"
