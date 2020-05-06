@@ -1,45 +1,45 @@
 apiVersion: v1
 entries:
-  demoo:
+  cmdemoo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-06T10:42:05.170023115Z"
+    created: "2020-05-06T14:41:19.599824453Z"
     description: A Helm chart for Kubernetes
-    digest: 50e2d168628ab0b9493912995c1ca8b0af2e78662dc7c7aafdecca790aa0420c
+    digest: e380c26e488b91d7f17202f975fbf70349f19859e92b695217ad1e7bdfc85d7e
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: demoo
+    name: cmdemoo
     type: application
     urls:
-    - demoo-0.1.0.tgz
+    - cmdemoo-0.1.0.tgz
     version: 0.1.0
-  nginxsimpleapplicatioon:
+  nginxsimpleapplicatiiioon:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-06T10:42:05.173352656Z"
+    created: "2020-05-06T14:41:19.601597919Z"
     description: A Helm chart for Kubernetes
-    digest: edd067dba1fa5436a4f723370ef5b7b557ce1ea111308ab89fcc917d5d820ed9
+    digest: 18084db951a0864c2dded32905006f06a3da24f8f205eaa5e620d5ec822d5101
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: nginxsimpleapplicatioon
+    name: nginxsimpleapplicatiiioon
     type: application
     urls:
-    - nginxsimpleapplicatioon-0.1.0.tgz
+    - nginxsimpleapplicatiiioon-0.1.0.tgz
     version: 0.1.0
-  wpssswithress:
+  woordpressnew:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-06T10:42:05.174763959Z"
+    created: "2020-05-06T14:41:19.602972184Z"
     description: A Helm chart for Kubernetes
-    digest: eb2a530f3e8e62e9826259097ef53cac29563c33e66e09ca0e42b18dae1224d5
+    digest: 9e4c297e495e4ba165350fa5df8357cb94f8376c1a044bfdad036570d877f475
     icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: wpssswithress
+    name: woordpressnew
     type: application
     urls:
-    - wpssswithress-0.1.0.tgz
+    - woordpressnew-0.1.0.tgz
     version: 0.1.0
   wpswitthoutress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-06T10:42:05.176076115Z"
+    created: "2020-05-06T14:41:19.604275598Z"
     description: A Helm chart for Kubernetes
     digest: c69e447520f1049ceadfef52a5bb8f6f3890fcc1ce5b4b077bf114555a58c0f1
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -48,4 +48,4 @@ entries:
     urls:
     - wpswitthoutress-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-06T10:42:05.167869572Z"
+generated: "2020-05-06T14:41:19.596166159Z"
