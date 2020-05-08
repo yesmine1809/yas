@@ -3,7 +3,7 @@ entries:
   demoapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-08T08:21:59.331237712Z"
+    created: "2020-05-08T09:18:24.197045417Z"
     description: A Helm chart for Kubernetes
     digest: 9589a56e1697a9c6aec59455bcf46dd38ddaf0ee23794f5437356375a3726021
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -12,22 +12,22 @@ entries:
     urls:
     - demoapp-0.1.0.tgz
     version: 0.1.0
-  simpleappnginx:
+  simpleapplnginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-08T08:21:59.332481501Z"
+    created: "2020-05-08T09:18:24.199121745Z"
     description: A Helm chart for Kubernetes
-    digest: c21bb053ce45769528e5d4db69cb0cebfd6fdab2527a369b67212577cb5b7202
+    digest: 4e3d3e66524d07be3f1bb63c0a36e6ab53d77ee535c01590a163536e1b25f47e
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: simpleappnginx
+    name: simpleapplnginx
     type: application
     urls:
-    - simpleappnginx-0.1.0.tgz
+    - simpleapplnginx-0.1.0.tgz
     version: 0.1.0
   woordpressffinal:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-08T08:21:59.333421996Z"
+    created: "2020-05-08T09:18:24.200760623Z"
     description: A Helm chart for Kubernetes
     digest: 70b08e31d3983ad88abc2c39fe6883f5decc4711666956836caf6f40fdce9408
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -39,7 +39,7 @@ entries:
   woordpressswthres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-08T08:21:59.335305906Z"
+    created: "2020-05-08T09:18:24.203024596Z"
     description: A Helm chart for Kubernetes
     digest: 3b180aee214b4917eb42f611ec4b406f0af768cbccaa5c84c306bcd2692395d9
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -48,4 +48,4 @@ entries:
     urls:
     - woordpressswthres-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-08T08:21:59.329430073Z"
+generated: "2020-05-08T09:18:24.194951245Z"
