@@ -3,7 +3,7 @@ entries:
   demoapplication:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-12T08:18:44.454413883Z"
+    created: "2020-05-12T13:13:01.574938858Z"
     description: A Helm chart for Kubernetes
     digest: 07b6badb91bcb80cc2a0a5224311f85ee5ab996189d1e1718151d8a96d645f8d
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -15,7 +15,7 @@ entries:
   simpleapplicationginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-12T08:18:44.457143145Z"
+    created: "2020-05-12T13:13:01.576870326Z"
     description: A Helm chart for Kubernetes
     digest: 4ab06869ff780ca8867d23d853b5f1ebaf4ea70876747fb6ca29c623ee669ac3
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
@@ -24,22 +24,10 @@ entries:
     urls:
     - simpleapplicationginx-0.1.0.tgz
     version: 0.1.0
-  woordpresslatest:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-05-12T08:18:44.459392968Z"
-    description: A Helm chart for Kubernetes
-    digest: c929e893f03814ccf0eee16147ca9a73d63d3b52e2c55e89b1a7dbb3138cacf6
-    icon: https://img.icons8.com/color/384/000000/wordpress.png
-    name: woordpresslatest
-    type: application
-    urls:
-    - woordpresslatest-0.1.0.tgz
-    version: 0.1.0
   woordpressswthres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-12T08:18:44.460526454Z"
+    created: "2020-05-12T13:13:01.579188707Z"
     description: A Helm chart for Kubernetes
     digest: 3b180aee214b4917eb42f611ec4b406f0af768cbccaa5c84c306bcd2692395d9
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -48,4 +36,16 @@ entries:
     urls:
     - woordpressswthres-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-12T08:18:44.452253859Z"
+  wordpresslatest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-12T13:13:01.581084801Z"
+    description: A Helm chart for Kubernetes
+    digest: 79cc7914e71498373a719836e1bd1bc6428ae4b4f4e52c9f9b5b7a4cfcf703e4
+    icon: https://img.icons8.com/color/384/000000/wordpress.png
+    name: wordpresslatest
+    type: application
+    urls:
+    - wordpresslatest-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-12T13:13:01.573022029Z"
