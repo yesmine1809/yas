@@ -3,7 +3,7 @@ entries:
   demoapplication:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-12T13:13:01.574938858Z"
+    created: "2020-05-14T08:16:32.89032394Z"
     description: A Helm chart for Kubernetes
     digest: 07b6badb91bcb80cc2a0a5224311f85ee5ab996189d1e1718151d8a96d645f8d
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -12,22 +12,22 @@ entries:
     urls:
     - demoapplication-0.1.0.tgz
     version: 0.1.0
-  simpleapplicationginx:
+  simpleapplicationginxx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-12T13:13:01.576870326Z"
+    created: "2020-05-14T08:16:32.893803462Z"
     description: A Helm chart for Kubernetes
-    digest: 4ab06869ff780ca8867d23d853b5f1ebaf4ea70876747fb6ca29c623ee669ac3
+    digest: bb11405d296d871d250cb79c2e28036adbc938b49e92be13a6702ff7a1c15a0a
     icon: https://access.redhat.com/sites/default/files/nginx-icon-outline-hex-rgb-266x302_0.png
-    name: simpleapplicationginx
+    name: simpleapplicationginxx
     type: application
     urls:
-    - simpleapplicationginx-0.1.0.tgz
+    - simpleapplicationginxx-0.1.0.tgz
     version: 0.1.0
   woordpressswthres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-12T13:13:01.579188707Z"
+    created: "2020-05-14T08:16:32.894874165Z"
     description: A Helm chart for Kubernetes
     digest: 3b180aee214b4917eb42f611ec4b406f0af768cbccaa5c84c306bcd2692395d9
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -39,7 +39,7 @@ entries:
   wordpresslatest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-12T13:13:01.581084801Z"
+    created: "2020-05-14T08:16:32.896038739Z"
     description: A Helm chart for Kubernetes
     digest: 79cc7914e71498373a719836e1bd1bc6428ae4b4f4e52c9f9b5b7a4cfcf703e4
     icon: https://img.icons8.com/color/384/000000/wordpress.png
@@ -48,4 +48,4 @@ entries:
     urls:
     - wordpresslatest-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-12T13:13:01.573022029Z"
+generated: "2020-05-14T08:16:32.888035548Z"
